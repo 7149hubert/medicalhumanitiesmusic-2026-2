@@ -4,8 +4,8 @@ Year: 2019
 Genre: Film
 Music: Rock and Roll Part 2
 Composer: Gary Glitter (b. 1944) and Mike Leander (1941-1996)
-Disease: Progressive pseudobulbar palsy
-ICD: 8B60.2
+Disease: Pseudobulbar affect
+ICD: 6E6Y
 ---
 
 # Joker
